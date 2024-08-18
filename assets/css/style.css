@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+body{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-size: 50px;
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #222f3e;
+    min-height: 100vh;
+}
+
+.dijital-cloth {
+    display: flex;
+    background-color: #0abde3;
+    color: #fff;
+    padding: 25px 50px;
+    border-radius: 10px;
+    div{
+        margin: 0 5px;
+    }
+}
